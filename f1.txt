@@ -1,0 +1,4 @@
+cntt1;Nguyen Thanh Nam; 4.5; 9
+cntt3;Tran Van Thanh;8.5;9.5
+cntt4;Tran Quoc Vu;4.999;4.999
+cntt2;Le Thi Lung;6.0;7.5
